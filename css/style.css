@@ -1808,9 +1808,10 @@ form label {
   box-shadow: none;
   background: transparent;
   border: 2px solid rgba(0, 0, 0, 0.1);
-  height: 54px;
+  height: 48px;
   font-size: 18px;
   font-weight: 300;
+  border-radius: 20px;
 }
 .form-control:active, .form-control:focus {
   outline: none;
@@ -1839,5 +1840,4 @@ form label {
 .js .animate-box {
   opacity: 0;
 }
-
 /*# sourceMappingURL=style.css.map */
